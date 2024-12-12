@@ -1,18 +1,18 @@
 
 
-def p1(*args):
+def p1(data):
     # Add code here
     return 0
 
 
-def p2(*args):
+def p2(data):
     # Add code here
     return 0
 
 
 def parse_input(input:str):# -> list[Any]:
     # Add code here
-    return []
+    return [input]
 
 
 def main(input: str, part: int = 1):
